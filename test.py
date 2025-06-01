@@ -243,10 +243,6 @@ elif args.model == 'kan':
     pretrained_model = KANC_MLP_Big()
     pretrained_model.load_state_dict(torch.load('KAN-cifar100.pth'))
 
-# elif args.model == 'm':
-#     pretrained_model = 
-#     pretrained_model.load_state_dict(torch.load('-cifar100.pth'))
-
 
 #################### some args change #####################
 

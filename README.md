@@ -7,8 +7,7 @@ You should modify [username] and [env_name] in environment.yaml, then
 
 
 ## Methods
-Methods in method are TTA method.
-
+Methods in method folder are TTA method.
 
 
 ### Tent: Fully Test-time Adaptation by Entropy Minimization
@@ -27,7 +26,7 @@ Methods in method are TTA method.
 
 
 ## Models
-Model Structure in model
+Model Structure in model folder.
 
 ### Convolutional Kolmogorov-Arnold Networks
 

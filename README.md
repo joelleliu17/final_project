@@ -23,6 +23,25 @@ Methods in method are TTA method.
 
 [DeYO 🔗](https://openreview.net/forum?id=9w3iw8wDuE) (ICLR 2024)
 
-[DeYO implementation 🔗](https://github.com/Jhyun17/DeYO)
 
+
+## Models
+Model Structure in model
+
+### Convolutional Kolmogorov-Arnold Networks
+
+[CKAN 🔗](https://arxiv.org/abs/2406.13155)
+
+[CKAN implementation 🔗](https://github.com/AntonioTepsich/Convolutional-KANs)
+
+
+### Unveiling AI’s Blind Spots: An Oracle for In-Domain, Out-of-Domain, and Adversarial Errors
+
+[SuperMentor 🔗](https://arxiv.org/abs/2410.02384)
+
+[SuperMentor implementation 🔗](https://github.com/ZhangLab-DeepNeuroCogLab/UnveilAIBlindSpot/tree/main) (ICML 2025)
+
+
+## Datasets
+We use Cifar-100 as training set, and Cifar-100-C as testing set.
 

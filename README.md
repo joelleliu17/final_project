@@ -24,8 +24,8 @@ Model Structure in model folder.
 
 
 
-## Methods
-Methods in method folder are TTA method.
+## TTA Methods
+Methods in method folder are TTA(test-time adaptation) method.
 
 ### Tent: Fully Test-time Adaptation by Entropy Minimization
 [TENT 🔗](https://arxiv.org/abs/2006.10726) (ICLR 2021) 

@@ -5,6 +5,7 @@ import torch.optim as optim
 import torch.nn.functional as F
 
 from KAN import KAN_Convolutional_Layer
+import mentor
 
 # model = models.resnet50(pretrained=False)  
 def resnet50():
